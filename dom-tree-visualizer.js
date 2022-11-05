@@ -2,7 +2,7 @@
 // @name         DOM Tree Visualizer
 // @namespace    http://tampermonkey.net/
 // @version      0.6
-// @description  Make
+// @description  Generate a visual tree of the DOM tree of the current webpage using D3
 // @author       Chris Waddell
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
