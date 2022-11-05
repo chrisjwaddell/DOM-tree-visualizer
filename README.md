@@ -10,3 +10,9 @@ It inserts a popup block and inserts the generated DOM tree visualization. You c
 
 You can close branches and expand branches by clicking on the node.
 
+## How to use
+Put dom-tree-visualizer.js into Tampermonkey or Greasemonkey. In the console type in:
+```
+DOMTreeVisualize("footer")
+```
+To show the DOM tree branch of *footer*.
