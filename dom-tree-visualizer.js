@@ -89,7 +89,7 @@
 
     initialize()
 
-    async function DOMTreeVisualize(parent) {
+    async function DOMTreeVisualize(parent = "html") {
         let baseElements = ["HTML", "BODY", "HEAD", "SCRIPT", "STYLE", "TITLE", "META"];
 
 
@@ -115,8 +115,6 @@
                     bottom: 20,
                     left: 120
                 },
-                //width = 1000 - margin.right - margin.left,
-                //height = 500 - margin.top - margin.bottom;
                 width = 2000,
                 height = 2000
 
