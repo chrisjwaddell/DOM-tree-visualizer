@@ -15,4 +15,4 @@ Put dom-tree-visualizer.js into Tampermonkey or Greasemonkey. In the console typ
 ```
 DOMTreeVisualize("footer")
 ```
-To show the DOM tree branch of *footer*.
+To show the DOM tree branch of *footer*. You can choose any part of the DOM tree as the parent.
